@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NEBGNEY.aternos.me:12796",
+    "ip": "NEBGNEY.aternos.me",
     "port": 12796,
     "version": "",
     "try-creative": false
